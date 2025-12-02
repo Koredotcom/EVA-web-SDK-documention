@@ -119,7 +119,7 @@ initializeSDK({
   accessToken: 'k4********************wN',
   api_url: 'https://eva-qa.kore.ai/api/',
   presence_url: 'https://eva-qa.kore.ai/',
-  userId: 'u-c9d2b051-ca8c-53cf-a808-a1becbc4d981',
+  userId: 'u-c9d2b051-****-****-a808-a1becbc4d981',
   
   // Optional
   enableDebugging: false,
