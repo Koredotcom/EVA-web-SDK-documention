@@ -116,7 +116,7 @@ The `initializeSDK` function accepts a configuration object with the following p
 ```javascript
 initializeSDK({
   // Required
-  accessToken: 'k4dk3i2IQqsdAr6jH4VnTg-rjCuUPAwImIh5fM3H_VjKRTqkLSoA1aQHId2DoZwN',
+  accessToken: 'k4********************wN',
   api_url: 'https://eva-qa.kore.ai/api/',
   presence_url: 'https://eva-qa.kore.ai/',
   userId: 'u-c9d2b051-ca8c-53cf-a808-a1becbc4d981',
@@ -136,8 +136,8 @@ initializeSDK({
     name: 'ProcureBot',
     streamId: 'st-b6012ef2-810d-5240-b33e-5404d68b680e',
     webhook: {
-      clientId: 'cs-79a89a6f-b0ab-5e2f-b912-8dd1e2f95da0',
-      clientSecret: 'VJNwkfbPcMZl4bOa1Qn3XtYRz6rqigwtTgOlaYX25Xs='
+      clientId: 'cs-********************-5da0',
+      clientSecret: 'VJN************igwtTgOlaYX25Xs='
     }
   }
 });
